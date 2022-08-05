@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://patman-ganjil-hk.github.io/sitemap.xml
